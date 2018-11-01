@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Štěpán Tomsa (Glutexo)</string>
+	<string>Glutexo</string>
 	<key>Builder Version</key>
-	<string>13604.5.6</string>
+	<string>14606.1.36.1.9</string>
 	<key>CFBundleDisplayName</key>
 	<string>OrangeHRM timesheet filler</string>
 	<key>CFBundleIdentifier</key>
